@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCAB454-8DEC-4388-BDC8-8B5F51562124}|Ems.Application\\Application.csproj|c:\\.netfullstack\\frontend\\angular\\typescript\\ems\\ems\\ems.application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DCAB454-8DEC-4388-BDC8-8B5F51562124}|Ems.Application\\Application.csproj|solutionrelative:ems.application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED6D4E7-4619-4684-82E0-A657F68039BD}|Tests\\Tests.csproj|c:\\.netfullstack\\frontend\\angular\\typescript\\ems\\ems\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED6D4E7-4619-4684-82E0-A657F68039BD}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5128CFDE-4BCF-4AD6-90B2-EB11AC8736C7}|Infrastructure\\Infrastructure.csproj|c:\\.netfullstack\\frontend\\angular\\typescript\\ems\\ems\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5128CFDE-4BCF-4AD6-90B2-EB11AC8736C7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B429398-BA91-47E4-8727-DE4420A1D093}|Ems.Domain\\Ems.Domain.csproj|c:\\.netfullstack\\frontend\\angular\\typescript\\ems\\ems\\ems.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B429398-BA91-47E4-8727-DE4420A1D093}|Ems.Domain\\Ems.Domain.csproj|solutionrelative:ems.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCAB454-8DEC-4388-BDC8-8B5F51562124}|Ems.Application\\Ems.Application.csproj|c:\\.netfullstack\\frontend\\angular\\typescript\\ems\\ems\\ems.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCAB454-8DEC-4388-BDC8-8B5F51562124}|Ems.Application\\Ems.Application.csproj|solutionrelative:ems.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Ems.Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Ems.Application\\Application.csproj",
+              "ToolTip": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Ems.Application\\Application.csproj",
+              "RelativeToolTip": "Ems.Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T15:19:54.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:18:12.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:17:17.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Ems.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "Ems.Domain\\Program.cs",
+              "ToolTip": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Ems.Domain\\Program.cs",
+              "RelativeToolTip": "Ems.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:15:51.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Ems.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Ems.Application\\Class1.cs",
+              "ToolTip": "C:\\.NetFullStack\\Frontend\\Angular\\TypeScript\\Ems\\EMS\\Ems.Application\\Class1.cs",
+              "RelativeToolTip": "Ems.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:15:14.03Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
