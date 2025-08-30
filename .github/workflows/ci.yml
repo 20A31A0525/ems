@@ -21,13 +21,13 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Restore dependencies
-      run: dotnet restore EMS.sln
+      run: dotnet restore EMS/EMS.sln
 
     - name: Build solution
-      run: dotnet build EMS.sln --no-restore --configuration Release
+      run: dotnet build EMS/EMS.sln --no-restore --configuration Release
 
     - name: Run tests
-      run: dotnet test EMS.sln --no-build --configuration Release
+      run: dotnet test EMS/EMS.sln --no-build --configuration Release
 
     - name: Build
       run: dotnet build --no-restore --configuration Release
